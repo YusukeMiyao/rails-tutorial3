@@ -6,6 +6,7 @@ ruby '3.0.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.2', '>= 6.1.2.1'
 gem 'bootstrap-sass', '3.3.7'
+gem 'sprockets', '~> 4.0'
 # Use postgresql as the database for Active Record
 # gem 'pg', '~> 1.2', '>= 1.2.3'
 # Use Puma as the app server
